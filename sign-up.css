@@ -1,0 +1,254 @@
+.sign-up2 {
+  position: absolute;
+  top: 45px;
+  left: 268px;
+  font-size: var(--font-size-9xl);
+}
+.email {
+  position: absolute;
+  top: 106px;
+  left: 56px;
+}
+.sign-up-child {
+  top: 143px;
+  left: 56px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  width: 521px;
+  height: 53px;
+}
+.close-icon,
+.or,
+.sign-up-child {
+  position: absolute;
+}
+.close-icon {
+  top: 21px;
+  left: 24px;
+  width: 25px;
+  height: 34px;
+  object-fit: cover;
+}
+.or {
+  top: 280px;
+  left: 306px;
+}
+.sign-up-inner,
+.sign-up-item {
+  position: absolute;
+  top: 291.5px;
+  left: 55.5px;
+  border-top: 1px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  width: 238px;
+  height: 1px;
+}
+.sign-up-inner {
+  left: 339.5px;
+}
+.rectangle-div,
+.sign-up-child1,
+.sign-up-child2 {
+  position: absolute;
+  top: 324px;
+  left: 56px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 521px;
+  height: 53px;
+}
+.sign-up-child1,
+.sign-up-child2 {
+  top: 390px;
+}
+.sign-up-child2 {
+  top: 456px;
+}
+.apple-logo-icon,
+.google-icon,
+.line-icon1 {
+  position: absolute;
+  top: 337px;
+  left: 78px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.google-icon,
+.line-icon1 {
+  top: 404px;
+}
+.line-icon1 {
+  top: 468px;
+  left: 77px;
+  width: 27px;
+  height: 27px;
+}
+.continue-with-apple {
+  position: absolute;
+  top: 339px;
+  left: 219px;
+}
+.continue-with-line {
+  position: absolute;
+  top: 470px;
+  left: 227px;
+}
+.continue-with-google {
+  position: absolute;
+  top: 404px;
+  left: 213px;
+}
+.component-10-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.component-10,
+.email1 {
+  position: absolute;
+  top: 32.08%;
+  left: 4.03%;
+}
+.component-10 {
+  top: 143px;
+  left: 56px;
+  width: 521px;
+  height: 53px;
+  font-size: var(--font-size-base);
+  color: var(--color-saddlebrown-200);
+}
+.component-13-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-yellowgreen);
+}
+.component-13,
+.continue {
+  position: absolute;
+  top: 20.93%;
+  left: 25.97%;
+}
+.component-13 {
+  top: 220px;
+  left: 226px;
+  width: 181px;
+  height: 43px;
+  color: var(--color-white);
+}
+.component-20-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+}
+.apple-logo-icon2 {
+  position: absolute;
+  height: 49.06%;
+  width: 4.99%;
+  top: 24.53%;
+  right: 90.79%;
+  bottom: 26.42%;
+  left: 4.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.continue-with-apple2 {
+  position: absolute;
+  top: 28.3%;
+  left: 31.29%;
+}
+.component-20,
+.google-icon2 {
+  position: absolute;
+  top: 324px;
+  left: 56px;
+  width: 521px;
+  height: 53px;
+}
+.google-icon2 {
+  height: 49.06%;
+  width: 4.99%;
+  top: 26.42%;
+  right: 90.79%;
+  bottom: 24.53%;
+  left: 4.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.continue-with-google2 {
+  position: absolute;
+  top: 26.42%;
+  left: 30.13%;
+}
+.component-23,
+.line-icon3 {
+  position: absolute;
+  top: 390px;
+  left: 56px;
+  width: 521px;
+  height: 53px;
+}
+.line-icon3 {
+  height: 50.94%;
+  width: 5.18%;
+  top: 22.64%;
+  right: 90.79%;
+  bottom: 26.42%;
+  left: 4.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-26,
+.continue-with-line2 {
+  position: absolute;
+  top: 26.42%;
+  left: 32.82%;
+}
+.component-26 {
+  top: 456px;
+  left: 56px;
+  width: 521px;
+  height: 53px;
+}
+.sign-up1 {
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 634px;
+  height: 587px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-fredoka-one);
+}

@@ -1,0 +1,113 @@
+.sign-up5 {
+  position: absolute;
+  top: 45px;
+  left: 268px;
+  font-size: var(--font-size-9xl);
+}
+.close-icon1,
+.create-a-password {
+  position: absolute;
+  top: 106px;
+  left: 56px;
+}
+.close-icon1 {
+  top: 21px;
+  left: 24px;
+  width: 25px;
+  height: 34px;
+  object-fit: cover;
+}
+.enter-at-least {
+  position: absolute;
+  top: 145px;
+  left: 56px;
+  font-size: var(--font-size-base);
+  color: rgba(118, 61, 29, 0.47);
+}
+.component-16-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.enter-a-password {
+  position: absolute;
+  top: 32.08%;
+  left: 11.13%;
+}
+.invisible-icon,
+.lock-icon {
+  position: absolute;
+  height: 64.15%;
+  width: 5.18%;
+  top: 16.98%;
+  right: 91.75%;
+  bottom: 18.87%;
+  left: 3.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.invisible-icon {
+  height: 50.94%;
+  width: 4.8%;
+  top: 26.42%;
+  right: 4.22%;
+  bottom: 22.64%;
+  left: 90.98%;
+}
+.component-16 {
+  position: absolute;
+  top: 179px;
+  left: 56px;
+  width: 521px;
+  height: 53px;
+  font-size: var(--font-size-base);
+  color: var(--color-saddlebrown-200);
+}
+.component-17-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-yellowgreen);
+}
+.component-17,
+.continue2 {
+  position: absolute;
+  top: 20.93%;
+  left: 25.97%;
+}
+.component-17 {
+  top: 256px;
+  left: 226px;
+  width: 181px;
+  height: 43px;
+  color: var(--color-white);
+}
+.sign-up4 {
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 634px;
+  height: 587px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-fredoka-one);
+}

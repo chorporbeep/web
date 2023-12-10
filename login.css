@@ -1,0 +1,308 @@
+.email,
+.log-in2 {
+  position: absolute;
+}
+.log-in2 {
+  top: 48px;
+  left: 276px;
+  font-size: var(--font-size-9xl);
+}
+.email {
+  top: 106px;
+  left: 56px;
+}
+.login-child {
+  top: 143px;
+  left: 56px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  width: 521px;
+  height: 53px;
+}
+.close-icon,
+.login-child,
+.or {
+  position: absolute;
+}
+.close-icon {
+  top: 21px;
+  left: 24px;
+  width: 25px;
+  height: 34px;
+  object-fit: cover;
+}
+.or {
+  top: 365px;
+  left: 306px;
+}
+.login-item {
+  top: 376.5px;
+  left: 55.5px;
+  border-top: 1px solid var(--color-saddlebrown-100);
+  width: 238px;
+  height: 1px;
+}
+.component-10-child,
+.login-inner,
+.login-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.login-inner {
+  top: 376.5px;
+  left: 339.5px;
+  border-top: 1px solid var(--color-saddlebrown-100);
+  width: 238px;
+  height: 1px;
+}
+.component-10-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-saddlebrown-100);
+}
+.component-10,
+.email1 {
+  position: absolute;
+  top: 32.08%;
+  left: 4.03%;
+}
+.component-10 {
+  top: 143px;
+  left: 56px;
+  width: 521px;
+  height: 53px;
+  font-size: var(--font-size-base);
+  color: var(--color-saddlebrown-200);
+}
+.component-13-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-yellowgreen);
+}
+.component-13,
+.continue {
+  position: absolute;
+  top: 20.93%;
+  left: 25.97%;
+}
+.component-13 {
+  top: 314px;
+  left: 227px;
+  width: 181px;
+  height: 43px;
+  color: var(--color-white);
+}
+.enter-a-password {
+  position: absolute;
+  top: 32.08%;
+  left: 11.13%;
+}
+.invisible-icon,
+.lock-icon {
+  position: absolute;
+  height: 64.15%;
+  width: 5.18%;
+  top: 16.98%;
+  right: 91.75%;
+  bottom: 18.87%;
+  left: 3.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.invisible-icon {
+  height: 50.94%;
+  width: 4.8%;
+  top: 26.42%;
+  right: 4.22%;
+  bottom: 22.64%;
+  left: 90.98%;
+}
+.component-16 {
+  position: absolute;
+  top: 209px;
+  left: 56px;
+  width: 521px;
+  height: 53px;
+  font-size: var(--font-size-base);
+  color: var(--color-saddlebrown-200);
+}
+.reset-password {
+  text-decoration: underline;
+  color: #ff6133;
+}
+.forgot-a-password-container {
+  position: absolute;
+  top: 277px;
+  left: 56px;
+  font-size: 15px;
+  color: var(--color-saddlebrown-200);
+}
+.login-child2,
+.login-child3,
+.login-child4 {
+  position: absolute;
+  top: 404px;
+  left: 57px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 521px;
+  height: 53px;
+}
+.login-child3,
+.login-child4 {
+  top: 470px;
+}
+.login-child4 {
+  top: 536px;
+}
+.apple-logo-icon,
+.google-icon,
+.line-icon1 {
+  position: absolute;
+  top: 417px;
+  left: 79px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.google-icon,
+.line-icon1 {
+  top: 484px;
+}
+.line-icon1 {
+  top: 548px;
+  left: 78px;
+  width: 27px;
+  height: 27px;
+}
+.continue-with-apple {
+  position: absolute;
+  top: 419px;
+  left: 220px;
+}
+.continue-with-line {
+  position: absolute;
+  top: 550px;
+  left: 228px;
+}
+.continue-with-google {
+  position: absolute;
+  top: 484px;
+  left: 214px;
+}
+.component-20-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+}
+.apple-logo-icon2 {
+  position: absolute;
+  height: 49.06%;
+  width: 4.99%;
+  top: 24.53%;
+  right: 90.79%;
+  bottom: 26.42%;
+  left: 4.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.continue-with-apple2 {
+  position: absolute;
+  top: 28.3%;
+  left: 31.29%;
+}
+.component-20,
+.google-icon2 {
+  position: absolute;
+  top: 404px;
+  left: 57px;
+  width: 521px;
+  height: 53px;
+}
+.google-icon2 {
+  height: 49.06%;
+  width: 4.99%;
+  top: 26.42%;
+  right: 90.79%;
+  bottom: 24.53%;
+  left: 4.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.continue-with-google2 {
+  position: absolute;
+  top: 26.42%;
+  left: 30.13%;
+}
+.component-23,
+.line-icon3 {
+  position: absolute;
+  top: 470px;
+  left: 57px;
+  width: 521px;
+  height: 53px;
+}
+.line-icon3 {
+  height: 50.94%;
+  width: 5.18%;
+  top: 22.64%;
+  right: 90.79%;
+  bottom: 26.42%;
+  left: 4.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-26,
+.continue-with-line2 {
+  position: absolute;
+  top: 26.42%;
+  left: 32.82%;
+}
+.component-26 {
+  top: 536px;
+  left: 57px;
+  width: 521px;
+  height: 53px;
+}
+.login {
+  position: relative;
+  border-radius: 40px;
+  background-color: var(--color-white);
+  width: 634px;
+  height: 629px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-fredoka-one);
+}

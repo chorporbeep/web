@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-fredoka-one: "Fredoka One";
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-9xl: 28px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #3c6d71;
+  --color-coral-100: #fc7953;
+  --color-coral-200: #f5743b;
+  --color-darkseagreen: #70ae6d;
+  --color-saddlebrown-100: #763d1d;
+  --color-saddlebrown-200: rgba(118, 61, 29, 0.42);
+  --color-whitesmoke: #f0f0f0;
+  --color-yellowgreen: #94ca3c;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-3xs: 10px;
+}
